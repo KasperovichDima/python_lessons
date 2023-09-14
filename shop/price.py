@@ -1,4 +1,7 @@
-price_list: dict[str, float] = dict(
+"""Application price list."""
+
+
+price_list = dict(
     Капуста=0.98,
     Кабачки=1.75,
     Картошка=0.50,
