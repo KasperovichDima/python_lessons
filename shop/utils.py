@@ -2,9 +2,6 @@
 from price import price_list
 
 
-
-
-
 def print_price_list():
     """Print specified price list."""
     print('*' * 30)
