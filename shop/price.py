@@ -1,7 +1,7 @@
 """Application price list."""
 
 
-price_list = dict(
+price_list = dict(  # TODO: Add type hint
     Капуста=0.98,
     Кабачки=1.75,
     Картошка=0.50,
